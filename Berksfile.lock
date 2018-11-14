@@ -18,6 +18,7 @@ DEPENDENCIES
   yum-epel (= 0.7.1)
   yum-repoforge (= 1.0.0)
 
+GRAPH
   7-zip (1.0.2)
     windows (>= 1.2.2)
   apt (3.0.0)
