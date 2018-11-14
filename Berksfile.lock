@@ -44,7 +44,7 @@ DEPENDENCIES
   presto (0.1.0)
   rakam (0.1.0)
     nodejs (>= 0.0.0)
-  seven_zip (3.0.0)
+  seven_zip (2.0.2)
     windows (>= 0.0.0)
   windows (1.44.3)
     chef_handler (>= 0.0.0)
